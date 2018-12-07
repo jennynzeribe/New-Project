@@ -1,0 +1,21 @@
+body {
+    display: block;
+    margin-top: 200px;
+    position: relative;
+    left: 400px;
+    right: 360px;
+    overflow: hidden;
+    color: white;
+   
+}
+.jenny{
+    width: 25em;
+    box-sizing: border-box;
+    border: 10px;
+  background-color: rgba(0, 0, 0, 0.438);
+  padding: 40px;
+}
+ .enter,input[type=password], input[type=email]{
+     width: 20em;
+     background-color: white;
+ }
